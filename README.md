@@ -16,7 +16,6 @@ foo@bar:~$ pip3 install -r requirements.txt
 
 Далее каждый пост обрабатывается, убирается пунктуация, формируется пара вопрос-ответ, и каждому вопросу выставляется ранг, 
 как отношение оценки к максимальной оценки ответа на вопрос в посте(то есть самый подходящий ответ имеет ранг 0).
-
 Код обработки данных [process_csv.py](https://github.com/nkhamm-spb/ml_hse_project/blob/main/process_csv.py).
 
 Итоговый датасет можно посмотреть [здесь](https://www.kaggle.com/datasets/datasnaek/mbti-type)
