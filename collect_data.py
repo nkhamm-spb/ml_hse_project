@@ -21,7 +21,7 @@ if __name__ == '__main__':
     questions_data = 'data/page_links.pkl'
     main_url = 'https://stackoverflow.com'
     delaying_time = 0.1
-    start_id = 25001
+    start_id = 0
 
     with open(questions_data, 'rb') as file:
         questions_urls = pickle.load(file)
