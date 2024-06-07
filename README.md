@@ -41,6 +41,7 @@ foo@bar:~$ pip3 install -r requirements.txt
 Для задачи определения статуса ответа
 
 - LogisticRegression - 0.0103
+- DecisionTreeClassifier - 0.1619
 - CatBoost - 0.0121
 
 
