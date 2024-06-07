@@ -1,6 +1,8 @@
 #  Предсказание релевантности ответа на вопрос со StackOverflow
 HSE ML course project (2nd year)
 
+[Ссылка](https://docs.google.com/presentation/d/1FtMrLCLS762nk5LsOptM6tpHIpuLanlOAVdSj5IKFAA/edit?usp=sharing) на презентацию.
+
 ### Команда:
 - Хамматов Никита
 
